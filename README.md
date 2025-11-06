@@ -28,11 +28,3 @@ Run locally (Windows)
    - npm install
    - npm run dev
 
-Project layout (high level)
-- backend/: app.js, server.js, controllers/, models/, routes/, middlewares/, utils/
-- my-react-app/: Vite React app (src/components/, main.jsx, App.jsx)
-
-Notes for reviewers
-- Check auth in utils/jwtToken.js and middlewares/auth.js
-- Models in backend/models/ handle validation and hashing
-- Controllers contain business logic for jobs, users, applications
