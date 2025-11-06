@@ -36,6 +36,3 @@ Notes for reviewers
 - Check auth in utils/jwtToken.js and middlewares/auth.js
 - Models in backend/models/ handle validation and hashing
 - Controllers contain business logic for jobs, users, applications
-
-Contact
-- Request a demo, deployment, or code walkthrough.
